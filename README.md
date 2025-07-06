@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://leetcode.com/u/vaibhavi1204/">
-    <img src="https://www.google.com/imgres?q=leetcode%20symbol&imgurl=https%3A%2F%2Fimages.icon-icons.com%2F2530%2FPNG%2F512%2Fleetcode_button_icon_151892.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fleetcode-button%2F151892&docid=IlIb9FtoJGlHpM&tbnid=EsoZIR3bpjOxAM&vet=12ahUKEwjSlpXo16iOAxXFmq8BHU6ZKYUQM3oECC4QAA..i&w=512&h=130&hcb=2&ved=2ahUKEwjSlpXo16iOAxXFmq8BHU6ZKYUQM3oECC4QAA" alt="leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=yellow" />
   </a>
 </p>
 
