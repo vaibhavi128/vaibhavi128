@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💫 About Me:
 🔭 I'm deeply passionate about creating meaningful, scalable tech solutions.  
-🌱 Always learning something new – currently diving into **Generative AI** and **Full Stack Development**.  
+🌱 Always learning something new – currently diving into **Generative AI** , **Machine Learning** and **Full Stack Development**.  
 🎯 I enjoy blending creativity with code and building impactful digital experiences.  
 📬 Reach out to collaborate or just to say hi!
 
